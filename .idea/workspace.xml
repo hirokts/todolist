@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbeca350-1db2-453f-a2e6-820649095ba8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todolist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/icons/256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/icons/icon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/icons/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/electron/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/web/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/index.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/Next.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/ToDo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/modules/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/specs/Launch.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/specs/LandingPage.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/ToDo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/ToDo.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,8 +38,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="253">
+              <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -113,16 +66,16 @@
         <entry file="file://$PROJECT_DIR$/.babelrc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDo.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ToDo.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/renderer/components/ToDo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -131,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -139,12 +92,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="372">
-                <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <first_editor relative-caret-position="483">
+                <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,7 +136,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/renderer/components/Next.vue" />
         <option value="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" />
-        <option value="$PROJECT_DIR$/src/renderer/components/ToDo.vue" />
         <option value="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" />
         <option value="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" />
         <option value="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" />
@@ -191,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/renderer/main.js" />
         <option value="$PROJECT_DIR$/src/renderer/router/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ToDo.vue" />
       </list>
     </option>
   </component>
@@ -204,8 +157,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2002" />
-    <option name="y" value="37" />
+    <option name="x" value="1990" />
+    <option name="y" value="187" />
     <option name="width" value="1717" />
     <option name="height" value="986" />
   </component>
@@ -356,15 +309,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523497257583</updated>
-      <workItem from="1523497259560" duration="6804000" />
+      <workItem from="1523497259560" duration="8893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6804000" />
+    <option name="totallyTimeSpent" value="8893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2002" y="37" width="1717" height="986" extended-state="0" />
+    <frame x="1990" y="187" width="1717" height="986" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Palette" />
@@ -384,8 +338,8 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32905483" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24955224" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32905483" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24955224" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Learn" />
       <window_info anchor="right" id="SciView" />
@@ -422,20 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/renderer/components/ToDo.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.web.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -460,7 +400,7 @@
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -477,20 +417,34 @@
     <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="372">
-            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <first_editor relative-caret-position="483">
+            <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ToDo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
