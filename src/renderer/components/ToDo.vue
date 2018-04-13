@@ -5,9 +5,10 @@
     </el-input>
     <el-table :data="taskList" :show-header="false" stripe>
       <el-table-column prop="task" width="auto"></el-table-column>
-      <el-table-column align="center" width="100px">
+      <el-table-column align="center" width="180px">
         <template slot-scope="record">
-          <el-button size="mini" type="danger" @click="deleteTask(record.$index)">削除</el-button>
+          <el-button size="mini" type="success" @click="moveUpTask(record.$index)">up</el-button>
+          <el-button size="mini" type="danger" @click="deleteTask(record.$indexl-button>
         </template>
       </el-table-column>
     </el-table>
@@ -31,6 +32,13 @@
       // タスク削除
       deleteTask (index) {
         this.taskList.splice(index, 1)
+      },
+      moveUpTask (index) {
+        if (index !== 0) {
+          let temp = this.taskList[index - 1].task
+          this.taskList[index - 1].task = this.taskList[index].task
+          this.taskList[index].task = temp
+        }
       }
     }
   }
@@ -39,6 +47,6 @@
 <style scoped>
   main.el-main {
     width: 600px;
-    margin: 0px auto;
+    margin: 0 auto;
   }
 </style>
