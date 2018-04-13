@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbeca350-1db2-453f-a2e6-820649095ba8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/ToDo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/ToDo.vue" afterDir="false" />
-    </list>
+    <list default="true" id="bbeca350-1db2-453f-a2e6-820649095ba8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +71,8 @@
       <file leaf-file-name="ToDo.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/renderer/components/ToDo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="1173">
+              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -157,8 +154,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2052" />
-    <option name="y" value="343" />
+    <option name="x" value="2067" />
+    <option name="y" value="124" />
     <option name="width" value="1717" />
     <option name="height" value="986" />
   </component>
@@ -310,16 +307,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523497257583</updated>
       <workItem from="1523497259560" duration="11728000" />
-      <workItem from="1523586510291" duration="3661000" />
+      <workItem from="1523586510291" duration="3974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15389000" />
+    <option name="totallyTimeSpent" value="15702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-2" width="1920" height="1033" extended-state="6" />
-    <editor active="true" />
+    <frame x="2067" y="124" width="1717" height="986" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -332,10 +328,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3119469" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905483" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22523962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2525373" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -520,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/components/ToDo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="1173">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
         </state>
       </provider>
     </entry>

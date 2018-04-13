@@ -8,7 +8,7 @@
       <el-table-column align="center" width="180px">
         <template slot-scope="record">
           <el-button size="mini" type="success" @click="moveUpTask(record.$index)">up</el-button>
-          <el-button size="mini" type="danger" @click="deleteTask(record.$indexl-button>
+          <el-button size="mini" type="danger" @click="deleteTask(record.$index)">delete</el-button>
         </template>
       </el-table-column>
     </el-table>
